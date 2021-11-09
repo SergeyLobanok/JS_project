@@ -1,2 +1,2 @@
-# JS_project
-Local storage and clients 
+# finalJS
+myFinalProjsecJs
